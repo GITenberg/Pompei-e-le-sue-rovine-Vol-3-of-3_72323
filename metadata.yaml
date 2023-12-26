@@ -1,0 +1,28 @@
+_repo: Pompei-e-le-sue-rovine-Vol-3-of-3_72323
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curti, Pier Ambrogio
+    birthdate: 1819
+    deathdate: 1899
+    gutenberg_agent_id: '53428'
+    url: http://www.gutenberg.org/2009/agents/53428
+description: ''
+gutenberg_issued: '2023-12-05'
+identifiers:
+  gutenberg: '72323'
+language: it
+pgterms:marc904: https://archive.org/details/pompeielesuerovi03curtiala
+pgterms:marc905: 20210715090025curti
+pgterms:marc906: '1872'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aMilano :$bSanvito, $c1872, copyright 1873, copyright 1874.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pompei e le sue rovine, Vol. 3 (of 3)
+url: http://www.gutenberg.org/ebooks/72323
